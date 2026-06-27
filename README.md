@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/BenetD0/BenetDemaj/main/bd_banner.png)
+![Banner](https://raw.githubusercontent.com/BenetDemaj/BenetDemaj/main/bd_banner.png)
 
 <p align="center">
   An AI Engineer dedicated to building intelligent systems that solve complex, real-world problems.
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://benetdemaj.vercel.app">
-    <img src="https://raw.githubusercontent.com/BenetD0/BenetDemaj/main/bdlogo.jpg" width="60" height="60" style="border-radius:50%;" alt="BD Portfolio"/>
+    <img src="https://raw.githubusercontent.com/BenetDemaj/BenetDemaj/main/bdlogo.jpg" width="60" height="60" style="border-radius:50%;" alt="BD Portfolio"/>
   </a>
 </p>
 
