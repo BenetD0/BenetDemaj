@@ -14,7 +14,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">Portfolio:</h3>
 
@@ -23,7 +22,5 @@
     <img src="https://raw.githubusercontent.com/BenetD0/BenetDemaj/main/bdlogo.jpg" width="60" height="60" style="border-radius:50%;" alt="BD Portfolio"/>
   </a>
 </p>
-
----
 
 <h3 align="center">Projects:</h3>
