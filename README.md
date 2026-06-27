@@ -2,6 +2,8 @@
 
 <h3 align="center">An AI Engineer dedicated to building intelligent systems that solve complex, real-world problems.</h3>
 
+---
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
