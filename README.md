@@ -99,3 +99,89 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://reactnative.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://keras.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://jupyter.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.langchain.com" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/>
+  </a>&nbsp;&nbsp;
+ <a href="https://openai.com" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="40" height="40" alt="OpenAI"/>
+</a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
+  <a href="https://ollama.com" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" width="40" height="40" alt="Ollama"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.gradio.app" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4" width="40" height="40" alt="Gradio"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+</p>
